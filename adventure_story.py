@@ -21,3 +21,11 @@ Directions:
 
 6. Execute (run) your script in Visual Studio Code and correct any errors.
 '''
+
+first_name = input ("what is the heros first name. \n")
+setting = input ("what is the setting of this story in. \n")
+object = input ("what is the object the charecter is using in this story. \n")
+
+print(f"{first_name} (n) {setting} {object}, !")
+
+
