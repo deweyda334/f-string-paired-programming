@@ -1,5 +1,5 @@
-# Student name
-# Current date
+# Dax Dewey
+# Sep 10
 # f-String Adventure Story
 
 '''
@@ -21,4 +21,3 @@ Directions:
 
 6. Execute (run) your script in Visual Studio Code and correct any errors.
 '''
-print('Hello')
