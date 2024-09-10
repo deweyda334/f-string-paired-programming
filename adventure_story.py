@@ -21,3 +21,4 @@ Directions:
 
 6. Execute (run) your script in Visual Studio Code and correct any errors.
 '''
+print('Hello')
