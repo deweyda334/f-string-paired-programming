@@ -24,4 +24,4 @@ first_name = input ("what is their first name for the greeting card. \n")
 occasion = input ("what is the occasion. \n")
 custom = input ("what is the custom message. \n")
 
-print(f"{first_name} is having a {occasion} party this weekend! {custom}, {first_name}!")
+print(f"{first_name} is having a(n) {occasion} party this weekend! {custom}, {first_name}!")
